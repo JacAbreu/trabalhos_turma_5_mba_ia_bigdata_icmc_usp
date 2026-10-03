@@ -9,6 +9,7 @@
 | [toninlopes](https://github.com/toninlopes) | [x-sentimento-financeiro-bertimbau-paper](https://github.com/toninlopes/x-sentimento-financeiro-bertimbau-paper) | Artigo acadêmico (LaTeX, modelo USP/ICMC) referente ao trabalho acima, sobre análise de sentimento financeiro em português utilizando o BERTimbau. |
 | [pealmeida](https://github.com/pealmeida) | [sovereign-vault](https://github.com/pealmeida/sovereign-vault) | Vault criptografado local-first para agentes de IA, nativo em MCP e com aprovação humana no loop (HITL-gated) antes da liberação de segredos. |
 | [adjailsondomingos](https://github.com/adjailsondomingos) | [intermittent-demand-forecasting-ecommerce](https://github.com/adjailsondomingos/intermittent-demand-forecasting-ecommerce) | Pipeline de previsão de demanda intermitente para produtos de cauda longa em e-commerce, comparando Random Forest e XGBoost com as baselines estatísticas SBA e TSB via validação walk-forward. |
+| [lucasgssantana](https://github.com/lucasgssantana) | [estratificacao-risco-kmeans](https://github.com/lucasgssantana/estratificacao-risco-kmeans) | Pipeline analítico para estratificação de risco e fenotipagem exploratória via K-Means, usando indicadores de regulação emocional (DERS, EQR, LESS-II) e validação clínica pela DASS-21, com GMM, bootstrap e XAI (SHAP). |
 
 ## Como adicionar um novo repositório
 
