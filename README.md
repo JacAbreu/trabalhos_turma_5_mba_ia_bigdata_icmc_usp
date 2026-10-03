@@ -8,6 +8,9 @@
 | [toninlopes](https://github.com/toninlopes) | [x-sentimento-financeiro-bertimbau](https://github.com/toninlopes/x-sentimento-financeiro-bertimbau) | Pipeline de dados para coleta, anotação e análise de sentimento em posts financeiros do X/Twitter do mercado brasileiro, comparando FinBERT-PT-BR, BERTimbau e abordagens baseadas em léxico (SentiLex-PT, OpLexicon). Trabalho de conclusão do MBA em IA e Big Data da USP São Carlos. |
 | [toninlopes](https://github.com/toninlopes) | [x-sentimento-financeiro-bertimbau-paper](https://github.com/toninlopes/x-sentimento-financeiro-bertimbau-paper) | Artigo acadêmico (LaTeX, modelo USP/ICMC) referente ao trabalho acima, sobre análise de sentimento financeiro em português utilizando o BERTimbau. |
 | [pealmeida](https://github.com/pealmeida) | [sovereign-vault](https://github.com/pealmeida/sovereign-vault) | Vault criptografado local-first para agentes de IA, nativo em MCP e com aprovação humana no loop (HITL-gated) antes da liberação de segredos. |
+| [lucasgssantana](https://github.com/lucasgssantana) | [estratificacao-risco-kmeans](https://github.com/lucasgssantana/estratificacao-risco-kmeans) | Estratificação de Risco e Fenotipagem Exploratória
+Baseada em Indicadores Psicométricos via Aprendizado de Máquina Não Supervisionado: Uma Abordagem Centrada em Regulação Emocional e Esquemas Emocionais. |
+
 
 ## Como adicionar um novo repositório
 
